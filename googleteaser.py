@@ -1,4 +1,5 @@
 #Google Pyramid BrainTeaser
+#comment added
 
 #Print first X lines
 #Ask for User Input
@@ -31,7 +32,7 @@ def printseq():
 
 
 nextanswer = '13112221'
-
+#another comment
 
 def attempt():
 	answer = raw_input('What is the next line? ')
